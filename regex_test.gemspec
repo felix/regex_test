@@ -27,6 +27,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "bin/regex_testr",
+    "regex_test.gemspec",
     "test/helper.rb",
     "test/test_regex_test.rb"
   ]
