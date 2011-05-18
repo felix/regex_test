@@ -56,9 +56,6 @@ box_main.pack_start(box_toggles, false, true, 2)
 @e_regexp.signal_connect('changed') {
   update_tests
 }
-@e_regexp.signal_connect('changed') {
-  update_tests
-}
 box_main.pack_start(@e_regexp, false, true, 2)
 
 tv_tests = Gtk::TextView.new
