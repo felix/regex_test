@@ -1,6 +1,8 @@
 = regex_test
 
-Description goes here.
+Simply test a regular expression against some test strings.
+
+Written in an hour or so ;-)
 
 == Contributing to regex_test
  
@@ -14,6 +16,6 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2011 felix. See LICENSE.txt for
+Copyright (c) 2011 Felix Hanley. See LICENSE.txt for
 further details.
 
