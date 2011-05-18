@@ -5,15 +5,15 @@
 
 Gem::Specification.new do |s|
   s.name = %q{regex_test}
-  s.version = "0.0.1"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Felix Hanley"]
   s.date = %q{2011-05-18}
-  s.default_executable = %q{regex_testr}
+  s.default_executable = %q{regex_test}
   s.description = %q{Visually test a regular expression as you type}
   s.email = %q{felix@seconddrawer.com.au}
-  s.executables = ["regex_testr"]
+  s.executables = ["regex_test"]
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README.rdoc"
@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "bin/regex_testr",
+    "bin/regex_test",
     "regex_test.gemspec",
     "test/helper.rb",
     "test/test_regex_test.rb"
